@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Rorie Williams
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Footballer who plays a lot of sport
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: http://www.planetcreation.co.uk/createpic/avatar-generator.JPG
 #
 # Flags below are optional
 #
@@ -21,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: roriewills2004.github.io
   instagram:
   linkedin:
   pinterest:
