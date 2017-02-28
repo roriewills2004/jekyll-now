@@ -130,29 +130,6 @@ table, th, td {
 
 }
 
-td {
-   vertical-align: middle; 
-   padding: 10px;
-}	
-
-th {
-   color: white;
-   background: #233237;
-   height:50px;
-   vertical-align: middle;
-}
-
-div.vid {
-    width: 560px;
-    height: 340px;
-    margin: 0 auto;
-}
-
-iframe{
-	width: 100%;
-	
-}
-
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
