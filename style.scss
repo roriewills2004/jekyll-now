@@ -158,17 +158,17 @@ iframe{
 
 .date {
   font-style: italic;
-  color: #cab0d6;
+  color: #0061ff;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #cab0d6;
-  background: #e2d734;
+  color: #0061ff;
+  background: #0061ff;
 }
 ::selection {
-  color: #cab0d6;
-  background: #e2d734;
+  color: #0061ff;
+  background: #0061ff;
 }
 
 // Nicolas Gallagher's micro clearfix hack
